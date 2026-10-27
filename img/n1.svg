@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800">
+  <rect width="1400" height="800" fill="#1b1b1b"/>
+  <rect x="80" y="90" width="1240" height="620" rx="12" fill="#2a2a2a"/>
+  <circle cx="250" cy="250" r="70" fill="#c4170c"/>
+  <rect x="360" y="210" width="420" height="18" fill="#888"/>
+  <rect x="360" y="250" width="280" height="18" fill="#555"/>
+  <rect x="120" y="420" width="1160" height="220" fill="#111"/>
+  <text x="140" y="540" fill="#c4170c" font-size="48" font-family="Arial" font-weight="700">CFTV / PORTARIA / ACESSO</text>
+</svg>
